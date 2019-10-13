@@ -1,3 +1,0 @@
-﻿  test.cpp
-c:\users\alsrb\desktop\코딩파일\test\test\test.cpp(43): warning C4101: 'ch2' :참조되지 않은 지역 변수입니다.
-  test.vcxproj -> C:\Users\alsrb\Desktop\코딩파일\test\Debug\test.exe
